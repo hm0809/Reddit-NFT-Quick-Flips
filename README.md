@@ -1,5 +1,5 @@
 <h1>ROADMAP</h1>
-
+```html
 <ol>
 
     <li>Acquire an Opensea API key: This will allow our tool to access the necessary data from the Opensea platform.
@@ -14,9 +14,5 @@
     </li>
     <li>Continual data gathering and analysis: This process will be ongoing, with the tool continually gathering and analyzing data to identify new trends and opportunities for users.
     </li>
-
-
-
-
-
 </ol>
+```
